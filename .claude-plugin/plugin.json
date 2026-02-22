@@ -1,0 +1,18 @@
+{
+  "name": "smart-memory",
+  "version": "1.0.0",
+  "description": "Routing manifest + confidence-scored memory shards for Claude Code. Replaces monolithic memory with surgical, context-aware retrieval that costs ~30 tokens always-loaded instead of 200 lines.",
+  "author": {
+    "name": "Aayush Dawra",
+    "url": "https://github.com/iamadawra"
+  },
+  "repository": "https://github.com/iamadawra/claude-smart-memory",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "context",
+    "routing",
+    "confidence",
+    "shards"
+  ]
+}

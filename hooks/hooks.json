@@ -1,0 +1,16 @@
+{
+  "description": "Smart Memory hooks — lightweight prompts that keep memory shards accurate across sessions",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ${CLAUDE_PLUGIN_ROOT}/scripts/stop.sh",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
