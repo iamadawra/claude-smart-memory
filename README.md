@@ -318,4 +318,6 @@ Yes. Custom agents that have access to the project directory will see the `.clau
 
 ## License
 
+Copyright (C) 2026 Aayush Dawra (@iamadawra). All rights reserved.
+
 [MIT](LICENSE)
